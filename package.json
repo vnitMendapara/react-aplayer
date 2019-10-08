@@ -21,7 +21,7 @@
     "url": "https://github.com/sabrinaluo/react-aplayer/issues"
   },
   "dependencies": {
-    "aplayer": "git://github.com/vnitMendapara/APlayer.git",
+    "aplayer": "git+https://github.com/vnitMendapara/APlayer.git",
     "prop-types": "^15.6.1",
     "react": "^16.2.0"
   },
