@@ -1,7 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import APlayer from 'aplayer';
-import 'aplayer/dist/APlayer.min.css';
 import events from './events';
 
 const capitalize = function(str) {
